@@ -20,6 +20,5 @@ public class Main{
         int val = 3;
         Main maininstance = new Main();
         System.out.print(maininstance.RemoveElement(nums, val));
-//        maininstance.RemoveElement(nums, val);
     }
 }
